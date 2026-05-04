@@ -1,0 +1,16 @@
+{
+  "backend_url": "http://192.168.1.9:3000",
+  "stream_url": "http://192.168.1.9:8090/video",
+  "session_id": "test-session-001",
+  "user_id": "user-001",
+  "device_name": "Raspberry Pi 5 - Study Lab",
+  "send_interval": 5,
+  "frame_resize": [224, 224],
+  "face_detection_threshold": 0.5,
+  "fatigue_threshold": 0.7,
+  "camera_read_timeout": 10,
+  "api_retry_attempts": 3,
+  "api_retry_delay": 2,
+  "enable_dashboard": true,
+  "dashboard_port": 5005
+}

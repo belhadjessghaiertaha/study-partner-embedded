@@ -1,0 +1,13 @@
+# Study Partner Edge AI - Python Dependencies
+# For Raspberry Pi 5 with ARM64 architecture
+
+# Core dependencies
+requests>=2.31.0          # HTTP client for API communication
+numpy>=1.24.0             # Numerical computing
+opencv-python>=4.8.0      # Computer vision (OpenCV)
+
+# Logging and utilities
+python-dotenv>=1.0.0      # Environment variable management
+
+# Optional: For production monitoring
+psutil>=5.9.0             # System and process utilities
